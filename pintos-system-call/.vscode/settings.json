@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "file.h": "c",
+        "filesys.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "timer.h": "c",
+        "thread.h": "c",
+        "synch.h": "c",
+        "malloc.h": "c",
+        "process.h": "c",
+        "syscall.h": "c",
+        "vaddr.h": "c",
+        "debug.h": "c",
+        "inttypes.h": "c",
+        "random.h": "c",
+        "io.h": "c",
+        "loader.h": "c",
+        "interrupt.h": "c",
+        "init.h": "c",
+        "stdint.h": "c",
+        "off_t.h": "c",
+        "switch.h": "c",
+        "stddef.h": "c"
+    }
+}
